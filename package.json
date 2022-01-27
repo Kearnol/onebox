@@ -10,10 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nylas/components-composer": "^1.1.6-canary.0",
-    "@nylas/components-contact-list": "^1.1.4-canary.0",
-    "@nylas/components-email": "^1.1.6",
     "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
     "express": "^4.17.2",
     "mongo": "^0.1.0",
     "nylas": "^6.0.0"
